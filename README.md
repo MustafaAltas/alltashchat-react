@@ -24,4 +24,4 @@ State yönetimi için Context API kullandım.
 
 
 
-<img href="https://github.com/MustafaAltas/alltashchat-react/blob/master/dosya%20i%C3%A7eri%C4%9Fi.jpg"> 
+<img src="https://github.com/MustafaAltas/alltashchat-react/blob/master/dosya%20i%C3%A7eri%C4%9Fi.jpg"/>
